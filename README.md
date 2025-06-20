@@ -5,8 +5,8 @@ This project develops **ESPECIFICA++** (Executable Specifications in C++), an em
 ## Project structure
 
 - The **operational version** of the language is located in the file [`especificapp.v2/especificapp.h`](especificapp.v2/especificapp.h). This file includes:
-  1. A set of macros to express quantifications.
-  2. An execution engine for those quantifications.
+  1. A set of macros to express quantifications and other basic constructions.
+  2. An execution engine for those quantifications and constructions.
 
 - The file [`especificapp.pdf`](especificapp.pdf) contains a **presentation of ESPECIFICA++** prepared for a workshop with students from Universidad Complutense de Madrid (UCM). This documentation is written in Spanish.
 
