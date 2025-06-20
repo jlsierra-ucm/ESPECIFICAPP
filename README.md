@@ -12,7 +12,7 @@ This project develops **ESPECIFICA++** (Executable Specifications in C++), an em
 
 > A more complete documentation in English will be available soon.
 
-- The folder [`especifica.v1`](especifica.v1/) is included **for historical reasons** only. It contains the implementation described in the following publication:
+- The folder [`especificapp.v1`](especificapp.v1/) is included **for historical reasons** only. It contains the implementation described in the following publication:
   - [DOI: 10.1109/EDUNINE62377.2025.10981333](https://doi.org/10.1109/EDUNINE62377.2025.10981333)
 
 ---
