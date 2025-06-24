@@ -8,7 +8,7 @@ This project develops **ESPECIFICA++** (Executable Specifications in C++), an em
   1. A set of macros to express quantifications and other basic constructions.
   2. An execution engine for those quantifications and constructions.
 
-- The file [`especificapp.pdf`](especificapp.pdf) contains a **presentation of ESPECIFICA++** prepared for a workshop with students from Universidad Complutense de Madrid (UCM). This documentation is written in Spanish.
+- The file [`especificapp.pdf`](especificapp.pdf) contains a **presentation of ESPECIFICA++** prepared for a workshop with students from Universidad Complutense de Madrid (UCM). This documentation is written in Spanish. The file [`INNOVA_FDI_25_JLSR.pdf`](INNOVA_FDI_25_JLSR.pdf) contains the presentation of ESPECIFICA++ in the educational innovation day, Facultad de Informática at UCM. 
 
 - The folder [`problemas`](problemas) contains two collections of problems to solve using ESPECIFICA++ (also in Spanish).
 
